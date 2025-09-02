@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Snipping Tool in Windows
+GIF created with Snipping Tool in Windows. You have to download the video from GitHub in order to watch the walkthrough
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,11 +37,11 @@ GIF created with Snipping Tool in Windows
 - 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I faced challenges with the filtering out the games and using new JavaScript methods (I had to know both the return type and the arguments of the function in order to apply it. I also had to link everything with the HTML file which was challenging. I also faced difficulties with GitHub, because I directly uploading my GIF from my local machine and pushing my code from VSCode, and this created a lot of merge issues
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright Idranne Mbah Ndum
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
