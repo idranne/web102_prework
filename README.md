@@ -26,7 +26,8 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Snipping Tool in Windows. You have to download the video from GitHub in order to watch the walkthrough
+GIF created with Snipping Tool in Windows. You have to download the video from GitHub in order to watch the walkthrough. Also the names New GIF and Updated Recording have thesame content. 
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +35,7 @@ GIF created with Snipping Tool in Windows. You have to download the video from G
 
 # Improvement of App 
 - The app could have a server / database that saves individuals preferred games, as they play. This will also permit retrievability of frequently played games. It alse have a place in the webapp where users can upload their own games and connect with others to play
-- 
+  
 ## Notes
 
 I faced challenges with the filtering out the games and using new JavaScript methods (I had to know both the return type and the arguments of the function in order to apply it. I also had to link everything with the HTML file which was challenging. I also faced difficulties with GitHub, because I directly uploading my GIF from my local machine and pushing my code from VSCode, and this created a lot of merge issues
