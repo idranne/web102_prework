@@ -32,6 +32,9 @@ GIF created with Snipping Tool in Windows
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+# Improvement of App 
+- The app could have a server / database that saves individuals preferred games, as they play. This will also permit retrievability of frequently played games. It alse have a place in the webapp where users can upload their own games and connect with others to play
+- 
 ## Notes
 
 Describe any challenges encountered while building the app.
